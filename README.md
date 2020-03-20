@@ -32,7 +32,7 @@ Unless you are totally obsessed with the content, there is no point on using thi
 
 The main boiler-plate for the-content is provided in the `/the-content/the-content` subdirectory. It has the following,
 * [the-image](/the-content/the-content/the-content.png)
-* [the-readme](/the-content/the-content/readme.md)
+* [the-readme](/the-content/the-content/README.md)
 * [the-drawio](/the-content/the-content/the-content.drawio)
 
 ## Road map
