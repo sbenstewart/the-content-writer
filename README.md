@@ -28,6 +28,13 @@ All the content is present in the `the-content` subdirectory. What else do I typ
 
 Unless you are totally obsessed with the content, there is no point on using this repo. So, good luck trying to. Especially understanding all posts. But, FYI, there is a plan to add explanatory posts for content. Each one of them.
 
+## Template
+
+The main boiler-plate for the-content is provided in the `/the-content/the-content` subdirectory. It has the following,
+* [the-image](/the-content/the-content/the-content.png)
+* [the-readme](/the-content/the-content/readme.md)
+* [the-drawio](/the-content/the-content/the-content.drawio)
+
 ## Road map
 * Get back on some feasible schedule so that the content-writer can publish the content.
 * Document the explanation for all the content.
