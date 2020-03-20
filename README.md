@@ -44,6 +44,13 @@ To contribute for the-content-writer, follow these steps:
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
 
+## Acknowledgements
+Down here the-content-writer would like to acknowledge all those that made the-content possible.
+
+* [xkcd-font](http://xkcd.com/1350/xkcd-Regular.otf) without which the whole content thing would fall apart.
+* [Drawio Chrome App](https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?hl=en-GB) that made it possible to develop the content offline.
+* [One junior who wants to remain anonymous](https://www.techradar.com/in/how-to/how-to-become-anonymous-online) who asked me if I developed content like this, to which in fact the-content-writer replied with a negative, and then got started developing the-content.
+
 ## Contact
 
 If you want to contact me you can reach me at <sbenstewart@gmail.com>.
