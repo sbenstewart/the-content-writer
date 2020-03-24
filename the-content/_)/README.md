@@ -4,7 +4,7 @@ The origins of emoticon that the-content-writer frquently uses in the-content. O
 
 ## the-image
 
-![alt text](_\).png)
+![alt text](https://raw.githubusercontent.com/sbenstewart/the-content-writer/master/the-content/_%29/_%29.png)
 
 ## the-transcript with the-explanation
 
