@@ -16,44 +16,47 @@ _the-content is about the above typed in emoticon._
 
 **The Emoticon**
 
-_An emoticon is sort of an image that can be represented using the text input from the device._
+_An emoticon is a representation of a facial expression such as a smile or frown, formed by various combinations of keyboard characters and used to convey the-content-writer's feelings or intended tone._
 
 **The Reasons**
 
-_Down here with the following_
-* _Inteliigence is understanding the-content_
-* _Intelligent entity is anything that exhibits intelligence_
+_Down here is explained the reason for using the emoticon_
 
-**Related Logo or B&W Sketch**
+**Ö**
 
-_The rounded rectangular space marked by the dotted line in the lower right corner marks the space where the above can be placed. I assume that no explantion for this is needed._
+_The scandinavian chrarcter that looks like a face or something like that._
 
-**The watermark for the content**
+**..**
 
-_The line that precedes the actual watermark. This is so that the-content-viewer can get one more word based pun._
+**U**
+
+_This is the modern adaptaion of the scandinavian character that all can type with two full stops and a capital U. This can be typed by moset people. But uses two lines and more importanlty doesn't align properly._
+
+**:)**
+
+_The improvised version of the above which is single line, but risks the fact that most people don't understand this emoticon unless it is explained to them. And also that most people don't ask others about what they don't know._
+
+**The watermark :)**
+This matches the format of the subheading and that emoticon is used here as well adding up to the context.
 
 **#thecontentwriter#sbenstewart**
 
 _The actual watermark. This suffices explanation._
 
-**Side Note (Additional side note intro)**
+**Side Note**
 
 _This is the space below the dashed line where the side notes are placed for making it easier for the-content-viewer to understand the content and also to summarise them into the said points._
 
-**Those features in the colour red cannot be modified**
+**Use the above :)**
 
-_All text, boxes and lines in the red colour cannot be changed. This is because they kind of form the base template for the content._
+_the-content-writer thus calls the viewer to use the emoticon for the reasons that are listed down below._
 
-**The alignment, font size and colour and type do not matter**
+**For Scandinavia and the vikings and the Norse and Thor**
 
-_The alignment such as the center, left, right or that justified can be neglected. And so too, can be the font size, colour and type. But, in reality the-content-writer would prefer centered text with the 14 point size._
+_The emoticon has it's origins way up north in Scandinavia where the vikings, the Norse and the people's favourite Thor have their origins too. So the-content-writer suggests people to use the emoticon for the same reason, to remember them._
 
-**It is only the content that does**
+**Or at least for Nokia**
 
-_Though whatever might be the stringent criteria of the-content-writer, it is the content that really does matter._
-
-## P.S.
-
-This [README.md](README.md) is the template for explaining the-content. 
+_But what is more important is that, the-content-writer being from the era where the internet and mobile computing were just starting to gain traction, it was the humble Nokia device that first displayed this emoticon to those young eyes for the-content-writer. And the same may be the case formost of those reading this._
 
 **Have a great day :)**
