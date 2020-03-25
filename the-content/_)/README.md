@@ -37,6 +37,7 @@ _This is the modern adaptaion of the scandinavian character that all can type wi
 _The improvised version of the above which is single line, but risks the fact that most people don't understand this emoticon unless it is explained to them. And also that most people don't ask others about what they don't know._
 
 **The watermark :)**
+
 This matches the format of the subheading and that emoticon is used here as well adding up to the context.
 
 **#thecontentwriter#sbenstewart**
