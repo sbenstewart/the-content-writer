@@ -32,7 +32,7 @@ Having so much time to kill, the-content-writer set out to find a few unremarkab
 
 **the-finding**
 
-Though you probably might know that `the function representing the number of people infected by any disease or idea is stricly increasing`, the-content-writer wanted to point the same out.
+Though you probably might know that `the function representing the number of people infected by any disease or idea is strictly increasing`, the-content-writer wanted to point the same out.
 
 But. The problem with the curve is that it is too steep and would scare the living hell out of many people. And so to fix this problem, the-content-writer searched for a solution, in fact, any solution, that might work, and sure did the-content-writer find one.
 
