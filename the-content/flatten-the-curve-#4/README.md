@@ -90,6 +90,7 @@ _Chronological meaning the organised content being published with an issue numbe
 _Some might find one lakh of rupees too cheap mostly due to the inflation, so change accordingly. And. You might not want that guy who finds you, to call some random toll free BSNL number. So change that as well._
 
 **And note that the content writer does not take any responsibility for your actions**
+
 _Self explanatory._
 
 **Have a great day :)**
