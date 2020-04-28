@@ -20,17 +20,17 @@ _the-content-writer flattening the curves for the fourth time._
 
 **Or actually when un-flattening is needed**
 
-_Many people are scared to hell about dying and also are anxious about the lockdown will take it's toll on them._
+_Many people are scared to hell about dying and also are anxious about how the lockdown will take it's toll on them._
 
-**the-curve you as of now**
+**the-curve "you as of now"**
 
 It is the heart beat of the human being. This is kind of what measures if we are still alive. And if your poor little brain is capable of reading this right now, just note the fact that you are alive.
 
-**the-flat-curve deadfor minutes or decades**
+**the-flat-curve "dead for minutes or decades"**
 
 When you are dead, the curve of the heart beat becomes flattened. It could be a mere minutes or a couple of decades.
 
-**the-curve article needed for immortality**
+**the-curve "article needed for immortality"**
 
 To bring the curve back to the normal heartbeats, we are required to carry an article with the following text engraved on it.
 
