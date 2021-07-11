@@ -40,7 +40,7 @@ function sleep(milliseconds) {
 
 function autoKill(url) {
   monitoredWindow = window.open(url, '_blank');
-  sleep(2500);
+  sleep(6000);
   console.log("Shutting the website"+ url +" down.");
   monitoredWindow.close() ;
 }
