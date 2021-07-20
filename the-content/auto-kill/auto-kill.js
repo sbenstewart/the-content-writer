@@ -20,7 +20,7 @@ async function block() {
     console.log('Country is not India')
     $(".not-india").removeClass('d-none');
   } else {
-    console.log('Country is not India')
+    console.log('Country is India')
     $(".india").removeClass('d-none'); 
   }
   $('#status').delay(350).fadeOut('slow');
