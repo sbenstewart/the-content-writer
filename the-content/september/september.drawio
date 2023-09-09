@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2023-09-09T11:47:31.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="2p7rqx_-6a0EypfunAZn" version="21.6.8" type="device">
+  <diagram id="dX7Dphyso45SB9-RoEhv" name="Page-1">
+    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nfxZPmU7g6QgWNAvG-ER-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;strokeColor=#FFFFFF;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="210" y="90" width="600" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6ggLF4gSHIukh4vJdm-18" value="&lt;font face=&quot;xkcd&quot;&gt;&lt;span style=&quot;font-size: 40px&quot;&gt;september&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="215" y="130" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6ggLF4gSHIukh4vJdm-24" value="&lt;font face=&quot;xkcd&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;the official playlist to ponder upon crises&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="210" y="170" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8b6ggLF4gSHIukh4vJdm-30" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="796.5" y="210" as="sourcePoint" />
+            <mxPoint x="221.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-dpR7HA_-HZ3Fbqk2lw-16" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797.5" y="580" as="sourcePoint" />
+            <mxPoint x="222.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-dpR7HA_-HZ3Fbqk2lw-17" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: xkcd; background-color: initial;&quot;&gt;side note&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: xkcd; background-color: initial;&quot;&gt;ask and ye shall receive the playlist&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: xkcd; background-color: initial;&quot;&gt;unless it&#39;s those pesky concert ticket swaps, a short squeeze is incoming, beware&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="220" y="598" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="euaHSMH8fYii958cPEId-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661" y="451" as="sourcePoint" />
+            <mxPoint x="661" y="451" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKVuHFSoDqtFi99w7tCS-15" value="&lt;font face=&quot;xkcd&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;music marks man apart from the rest&lt;br&gt;&lt;/span&gt;#thecontentwriter #sbenstewart&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="388" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ewSCSC30HjqfYDTTpNZa-1" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;xkcd&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;play time: under 30 minutes&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="250" y="527" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qnBmeKoM-zsKVJe2uu6H-1" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;xkcd&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;themes covered&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qnBmeKoM-zsKVJe2uu6H-2" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;xkcd&quot;&gt;1.&amp;nbsp; the fall of pompei&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;xkcd&quot;&gt;2. the black plague&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;xkcd&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(renditioned by a choir whose church burned)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;xkcd&quot;&gt;3. the creation of the atom bomb&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;xkcd&quot;&gt;4. the world trade center&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;xkcd&quot;&gt;5. the miss of space exploration&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: xkcd; background-color: initial; font-size: 22px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px; font-family: xkcd; background-color: initial;&quot;&gt;(Gamified)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;xkcd&quot;&gt;6. the emo finale&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="277" width="470" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
